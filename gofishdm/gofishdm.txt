@@ -1,0 +1,11 @@
+"gofishdm"
+{
+	"base"		"sandbox"
+	"title"		"Go Fish : Deathmatch"
+	"maps"		"GM_BigIsland"
+	"menusystem"	"1"
+
+	"author_name"	"Modded by Rookie and helped by Philxyz. Original creators G3X and ReaperSWE"
+	"author_email"	"gexeh@gexeh.co.uk | reaperswe@hotmales.cum"
+	"author_url"	""
+}

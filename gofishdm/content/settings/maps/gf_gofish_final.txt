@@ -1,0 +1,13 @@
+"Maps"
+{
+	"Go Fish"
+	{
+		"gf_gofish_final"
+		{
+			"Credits"	"ReaperSWE"
+			"Material"	"maps/gf_gofish_final"	
+		}
+		
+	}
+	
+}

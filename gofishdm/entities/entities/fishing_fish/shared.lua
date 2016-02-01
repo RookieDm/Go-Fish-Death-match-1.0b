@@ -1,0 +1,10 @@
+ENT.Base = "base_anim"
+ENT.Type = "anim"
+ENT.Category 			= "Go Fish"
+ENT.PrintName			= "Fish"
+ENT.Author			= "G3X n' ReaperSWE"
+ENT.Contact			= ""
+ENT.Purpose			= "Fish"
+ENT.Instructions		= ""
+ENT.Spawnable			= false
+ENT.AdminSpawnable		= false
